@@ -2,6 +2,8 @@
 
 `Easy` · `Trees`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/DeB-3nTHYBs)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/invert-binary-tree/)**
 
 ## Problem
