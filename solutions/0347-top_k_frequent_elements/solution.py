@@ -1,0 +1,6 @@
+import heapq
+from collections import Counter
+
+def top_k_frequent(nums, k):
+    count = Counter(nums)
+    return heapq.nlargest(k, count.keys(), key=count.get)
