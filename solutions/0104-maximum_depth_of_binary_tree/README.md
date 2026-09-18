@@ -2,6 +2,8 @@
 
 `Easy` · `Trees`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/A6vdsXk-ny4)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)**
 
 ## Problem
