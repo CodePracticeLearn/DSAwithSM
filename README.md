@@ -20,7 +20,7 @@ Each folder has the solution, its tests, and a link to the video that explains i
 | 78 | [Subsets](solutions/0078-subsets) | Medium | Backtracking | — |
 | 100 | [Same Tree](solutions/0100-same_tree) | Easy | Trees | — |
 | 102 | [Binary Tree Level Order Traversal](solutions/0102-binary_tree_level_order_traversal) | Medium | Trees | — |
-| 104 | [Maximum Depth of Binary Tree](solutions/0104-maximum_depth_of_binary_tree) | Easy | Trees | — |
+| 104 | [Maximum Depth of Binary Tree](solutions/0104-maximum_depth_of_binary_tree) | Easy | Trees | [▶︎ video](https://youtu.be/A6vdsXk-ny4) |
 | 121 | [Best Time to Buy and Sell Stock](solutions/0121-best_time_to_buy_and_sell_stock) | Easy | Arrays | — |
 | 133 | [Clone Graph](solutions/0133-clone_graph) | Medium | Graphs | — |
 | 200 | [Number of Islands](solutions/0200-number_of_islands) | Medium | Graphs | — |

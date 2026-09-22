@@ -2,6 +2,8 @@
 
 `Easy` · `Trees`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/3keMenCZqjM)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/)**
 
 ## Problem
