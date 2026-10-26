@@ -2,6 +2,8 @@
 
 `Medium` · `Graphs`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/dbyvLfL4pn8)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/number-of-islands/)**
 
 ## Problem
