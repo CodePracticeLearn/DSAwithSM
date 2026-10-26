@@ -2,6 +2,8 @@
 
 `Medium` · `Graphs`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/eCTcdtj5aZg)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/rotting-oranges/)**
 
 ## Problem
