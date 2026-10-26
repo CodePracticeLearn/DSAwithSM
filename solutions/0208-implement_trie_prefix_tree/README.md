@@ -2,6 +2,8 @@
 
 `Medium` · `Trie`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/UHdZZ-Q_kRw)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/)**
 
 ## Problem
