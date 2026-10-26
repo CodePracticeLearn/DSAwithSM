@@ -2,6 +2,8 @@
 
 `Easy` · `Trees`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/xwtuGH_09hU)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/path-sum/)**
 
 ## Problem
