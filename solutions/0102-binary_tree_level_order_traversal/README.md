@@ -2,6 +2,8 @@
 
 `Medium` · `Trees`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/V_p9kSb6wjM)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/)**
 
 ## Problem
