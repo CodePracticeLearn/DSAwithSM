@@ -2,6 +2,8 @@
 
 `Easy` · `Trees`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/dPQIeXzN2QI)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/subtree-of-another-tree/)**
 
 ## Problem
