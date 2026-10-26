@@ -2,6 +2,8 @@
 
 `Easy` · `Trees`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/3PsKw39n43o)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)**
 
 ## Problem
