@@ -2,6 +2,8 @@
 
 `Medium` · `Backtracking`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/HNip0Tk8gEU)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/word-search/)**
 
 ## Problem
