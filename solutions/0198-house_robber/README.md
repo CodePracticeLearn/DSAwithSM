@@ -2,6 +2,8 @@
 
 `Medium` · `Dynamic Programming`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/vXcVMJnqqro)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/house-robber/)**
 
 ## Problem
