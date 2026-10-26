@@ -2,6 +2,8 @@
 
 `Medium` · `Dynamic Programming`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/4_GASRi6f8U)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/coin-change/)**
 
 ## Problem
