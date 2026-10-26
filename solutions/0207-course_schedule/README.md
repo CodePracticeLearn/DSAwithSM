@@ -2,6 +2,8 @@
 
 `Medium` · `Graphs`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/vrl8DdGGf4s)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/course-schedule/)**
 
 ## Problem
