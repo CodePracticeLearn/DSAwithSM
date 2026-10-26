@@ -2,6 +2,8 @@
 
 `Medium` · `Trees`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/UTdTy3ME6gQ)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)**
 
 ## Problem
