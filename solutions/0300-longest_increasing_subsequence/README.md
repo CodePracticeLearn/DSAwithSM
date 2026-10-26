@@ -2,6 +2,8 @@
 
 `Medium` · `Dynamic Programming`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/5OearlmoUOI)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/)**
 
 ## Problem
