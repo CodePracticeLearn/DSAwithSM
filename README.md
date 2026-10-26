@@ -30,7 +30,7 @@ Each folder has the solution, its tests, and a link to the video that explains i
 | 226 | [Invert Binary Tree](solutions/0226-invert_binary_tree) | Easy | Trees | [▶︎ video](https://youtu.be/DeB-3nTHYBs) |
 | 347 | [Top K Frequent Elements](solutions/0347-top_k_frequent_elements) | Medium | Heap | — |
 | 455 | [Assign Cookies](solutions/0455-assign_cookies) | Easy | Greedy | — |
-| 543 | [Diameter of Binary Tree](solutions/0543-diameter_of_binary_tree) | Easy | Trees | — |
+| 543 | [Diameter of Binary Tree](solutions/0543-diameter_of_binary_tree) | Easy | Trees | [▶︎ video](https://youtu.be/3keMenCZqjM) |
 | 572 | [Subtree of Another Tree](solutions/0572-subtree_of_another_tree) | Easy | Trees | — |
 | 875 | [Koko Eating Bananas](solutions/0875-koko_eating_bananas) | Medium | Binary Search | — |
 | 994 | [Rotting Oranges](solutions/0994-rotting_oranges) | Medium | Graphs | — |

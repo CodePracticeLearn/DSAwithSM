@@ -2,6 +2,8 @@
 
 `Easy` · `Trees`
 
+📺 **[Watch the walkthrough on YouTube](https://youtu.be/B8GhW4nmles)**
+
 🔗 **[Problem on LeetCode](https://leetcode.com/problems/same-tree/)**
 
 ## Problem
